@@ -1,0 +1,244 @@
+
+body {
+
+	background-color: #F5F5F5;
+	font-family:'Bebas Neue', cursif;
+}
+
+		h1 {
+
+			font-size: 40px;
+			line-height:1.2;
+			letter-spacing: 2px;
+			text-align:center;
+			font-weight: 350;
+			
+		}
+
+		h2 {
+
+			font-size: 33px;
+			line-height:1.2;
+			text-align:center;
+			font-weight: 300;
+			text-decoration: underline;
+
+		}
+
+		h3 {
+
+			font-size: 29px;
+			font-weight: 250;
+			line-height:0.8;
+		}
+
+		h4{
+
+			font-size: 23px;
+			font-weight: 250;
+		}
+
+				a {
+
+					text-decoration: none;
+					color: purple; 
+				}
+
+				a:hover {
+
+					color: grey;
+				}
+
+					p {
+						font-size:20px;
+						font-weight: 250;
+						line-height:1;
+					}
+
+					ul,li {
+						font-size:20px;
+						font-weight: 250;
+						padding-left: 0px; 
+						list-style: none;
+					}
+
+						.imagephotodeprofile {
+
+							width:220px;
+							height:220px;
+							border-radius: 50%;
+							border:2px solid black;
+							
+						}
+
+						.planning {
+
+							max-width: 70%;
+							height: auto;
+							border:1px solid black;
+						}
+
+						.imageduroyal {
+
+							max-width: 70%;
+							height: auto;
+							border:1px solid black;
+						}
+
+						.imagedelacanaille {
+
+							max-width: 70%;
+							height: auto;
+							border:1px solid black;
+						}
+
+						.imagedumaestro {
+
+							max-width: 	70%;
+							height: auto;
+							border:1px solid black;
+						}
+
+						.imageduwarehouse {
+
+							max-width: 	70%;
+							height: auto;
+							border:1px solid black;
+						}
+
+						.imagedelanewfact {
+
+							max-width: 	70%;
+							height: auto;
+							border:1px solid black;
+						}
+
+						.imageducolors {
+
+							max-width: 	70%;
+							height: auto;
+							border:1px solid black;
+						}
+
+								.textjustify {
+
+									text-align:center;
+								}
+
+								.lien {
+
+									font-size:20px;
+
+								}
+	.container {
+		width: 700px;
+		margin: 40px auto;
+	}
+
+	@media (max-width: 760px) {
+		.container {
+			width: 600px
+		}
+	}
+
+	#presentation {
+
+	background:white;  
+	padding :40px ;
+	margin: 50px auto ;
+	box-shadow :10px 20px 40px rgba(0,0,0,0.1);
+	border-radius: 40px;
+	width: 70%;
+	text-align: center;
+
+
+		}
+
+	#coursaudencia {
+
+	background:white;  
+	padding :40px ;
+	margin: 50px auto ;
+	box-shadow :10px 20px 40px rgba(0,0,0,0.1);
+	border-radius: 40px;
+	width: 70%;
+	text-align: center;
+
+		}
+
+	#activitesport {
+
+	background:white;  
+	padding :40px ;
+	margin: 50px auto;
+	box-shadow :0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 40px;
+	width: 70%;
+	text-align: center;
+
+		}
+
+	#soiree {
+
+	background:white;  
+	padding :40px ;
+	margin: 50px auto;
+	box-shadow :10px 20px 40px rgba(0,0,0,0.1);
+	border-radius: 40px;
+	text-align: center;
+	width:70%;
+
+		}
+
+	#nightclub {
+
+	background:white;  
+	padding :40px ;
+	margin: 50px auto;
+	box-shadow :10px 20px 40px rgba(0,0,0,0.1);
+	border-radius: 40px;
+	width: 70%;
+	text-align: center;
+
+		}
+
+	#mesuivre {
+
+	background:white;  
+	padding :40px ;
+	margin: 50px auto ;
+	box-shadow :10px 20px 40px rgba(0,0,0,0.1);
+	border-radius: 40px;
+	text-align: center;
+	width: 70%;
+
+		}
+
+	.liste {
+		list-style: none;
+
+	}
+	
+	.liste li {
+		display: inline;
+	}
+
+
+	#squarefb {
+		font-size: 60px;
+		letter-spacing: 5px;
+	}
+
+	#squareinsta {
+		font-size: 60px;
+
+
+
+
+
+
+
+
+
+
+
